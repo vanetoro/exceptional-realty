@@ -50,6 +50,23 @@ figcaption{
   color: #303;
 }
 
+/*//////TABLE//////*/
+table{
+  margin-left: 0 0 20px;
+  border-top: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+}
+
+th, td {
+  padding: 10px;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+th{
+  background: #555;
+  color: white;
+}
 
 /*//////DETAILS//////*/
 
